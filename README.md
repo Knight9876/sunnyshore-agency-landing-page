@@ -22,8 +22,8 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/Knight9876/recipe-page)
-- Live Site URL: [Live URL](https://recipe-page-using-tailwind.netlify.app)
+- Solution URL: [Solution](https://github.com/Knight9876/sunnyshore-agency-landing-page)
+- Live Site URL: [Live URL](https://sunnyside-landing-page-tailwind.netlify.app)
 
 ## My process
 
